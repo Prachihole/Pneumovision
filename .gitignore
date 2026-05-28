@@ -1,0 +1,20 @@
+# Virtual environment
+pytorch-env/
+
+# Dataset (too large for GitHub)
+chest_xray/
+
+# Model weights
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
