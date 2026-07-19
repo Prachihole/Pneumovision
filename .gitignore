@@ -14,7 +14,6 @@ __pycache__/
 *.pyo
 
 # VS Code settings
-.vscode/
+.vscode/git add .
 
-# Jupyter checkpoints
 .ipynb_checkpoints/

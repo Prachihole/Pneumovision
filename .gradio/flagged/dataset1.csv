@@ -1,0 +1,2 @@
+Upload Chest X-Ray,Prediction,timestamp
+.gradio\flagged\Upload Chest X-Ray\30dd2c706b2aade94d5e\person1_virus_9.jpeg,"{""label"": ""PNEUMONIA"", ""confidences"": [{""label"": ""PNEUMONIA"", ""confidence"": 0.9982}, {""label"": ""NORMAL"", ""confidence"": 0.0018}]}",2026-05-28 13:22:37.630026
